@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:**   19.022021
 **Name:** Mert  
 **Surname:** Cobanov  
 **Email:** mertcobanov@gmail.com  
